@@ -50,7 +50,7 @@ Four (4) calculated columns were created
 - ```Total Revenue 1 = Sheet1[Cash Revenue] + Sheet1[1˚ BHIS Revenue] + Sheet1[2˚ BHIS Revenue]```
 
 
-thirty (30) DAX measures were created to enhance analysis
+Thirty (30) DAX measures were created to enhance analysis
 - ```Total Revenue 1 = Sheet1[Cash Revenue] + Sheet1[1˚ BHIS Revenue] + Sheet1[2˚ BHIS Revenue]```
 
 - ```Average prescription = AVERAGE(Sheet1[Total Daily Prescription])```
